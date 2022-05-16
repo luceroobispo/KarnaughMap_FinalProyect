@@ -11,6 +11,6 @@ El objetivo de este programa es obtener la forma más simplificada de una funci�
 ## Autores
 - Miguel Huarcaya Chavez
 - Fabricio Raúl Huillca Mateos
-- Lucero Abigail Obispo Rios
 - Fabian Yanick Diaz Taquiri
 - Fabrizzio Antonio Castro Manrique
+- Lucero Abigail Obispo Rios 🙋🏻
