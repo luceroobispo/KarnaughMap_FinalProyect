@@ -13,4 +13,4 @@ El objetivo de este programa es obtener la forma más simplificada de una funci�
 - Fabricio Raúl  
 - Fabian Yanick  
 - Fabrizzio
-- Lucero Abigail Obispo Rios 🙋🏻
+- Lucero Obispo 🙋🏻
