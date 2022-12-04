@@ -9,8 +9,8 @@ El objetivo de este programa es obtener la forma más simplificada de una funci�
 - El programa calcula las agrupaciones del mapa de karnaugh y la función booleana simplificada, y se muestra en pantalla.
 
 ## Autores
-- Miguel Huarcaya Chavez
-- Fabricio Raúl Huillca Mateos
-- Fabian Yanick Diaz Taquiri
-- Fabrizzio Antonio Castro Manrique
+- Miguel Huarcaya 
+- Fabricio Raúl  
+- Fabian Yanick  
+- Fabrizzio
 - Lucero Abigail Obispo Rios 🙋🏻
