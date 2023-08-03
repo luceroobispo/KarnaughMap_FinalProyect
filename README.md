@@ -8,9 +8,5 @@ El objetivo de este programa es obtener la forma más simplificada de una funci�
 - El usuario ingresa de valores 1 o 0 en la tabla de verdad. Y los valores se organizan automáticamente en el mapa de karnaugh.
 - El programa calcula las agrupaciones del mapa de karnaugh y la función booleana simplificada, y se muestra en pantalla.
 
-## Autores
-- Miguel Huarcaya 
-- Fabricio Raúl  
-- Fabian Yanick  
-- Fabrizzio
-- Lucero Obispo 🙋🏻
+## Creditos
+Made with ❤️ by @luceroobispo
